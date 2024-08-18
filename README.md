@@ -21,11 +21,6 @@ For my projects, I usually dive deep into **Laravel**, **Next.js**, and **Rust**
 
 ---
 
-### 🎨 **Syntax Highlighter for Recolon**
-There is a very barebones syntax highlighter available for Visual Studio Code. You can find it in a separate [repository]([https://github.com/yourusername/recolon-vscode-syntax](https://github.com/Breijen/recolon-highlights)).
-
----
-
 ⭐ **Fun Fact:**
 - I write better code with a guitar on my lap and a cappuccino by my side.
 
