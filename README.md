@@ -12,17 +12,12 @@ For my projects, I usually dive deep into **Laravel**, **Next.js**, and **Rust**
 - 📚 Always eager to learn more about **systems programming** and **language design**.
 
 🎯 **Current Focus:**
-- 🌱 Developing **Recolon**, a new programming language built on Rust.
+- 🌱 Developing **Temporal Engine**, a new game engine built on Rust.
 - 🔄 Exploring the intersections between **music technology** and **software development**.
 
 📫 **Get in Touch:**
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bryan-van-der-laan-96691b175).
 - You can also follow my work and contributions here on GitHub.
-
----
-
-⭐ **Fun Fact:**
-- I write better code with a guitar on my lap and a cappuccino by my side.
 
 ---
 
