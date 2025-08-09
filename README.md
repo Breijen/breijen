@@ -1,26 +1,30 @@
 Hi, I'm Bryan.
+☁️ **Developer of Softmask** ☁️
 
-🎶 **Music Enthusiast Turned Developer** 🎶
+I'm a software developer currently building innovative cloud solutions at **Softmask**, where we deliver cutting-edge products like **Softdrive** (secure file storage) and **Softdocs** (collaborative document editing).
 
-I'm a software developer with a unique journey that started in the world of music technology and has led me to the exciting realm of programming. After two years of working in marketing and IT, I decided to make a career switch to software development, driven by a passion for building things and solving complex problems.
+At Softmask, I work extensively with modern web technologies to build scalable, secure cloud platforms that serve consumers worldwide. I'm passionate about creating robust backend systems and intuitive frontend experiences.
 
-For my projects, I usually dive deep into **Laravel**, **Next.js**, and **Rust**. My current passion project is developing my own Rust-based programming language called **Recolon**. I also have a background in music, and I play a variety of instruments including guitar, bass, drums, and piano.
+🔧 **Professional Tech Stack:**
+- ⚡ **Backend:** Node.js, Express.js, MongoDB
+- 🎨 **Frontend:** Next.js, React, TypeScript
+- 🔐 **Security:** End-to-end encryption, Auth0 authentication
+- ☁️ **Cloud:** Microservices architecture, RESTful APIs
+- 🛠️ **Additional:** Rust
 
-🔧 **Tech Stack & Interests:**
-- 🛠️ I'm currently working with **Rust**, **Next.js**, and **Laravel**.
-- 🎸 I’m passionate about building creative software and also enjoy music composition.
-- 📚 Always eager to learn more about **systems programming** and **language design**.
+🎯 **Current Focus at Softmask:**
+- 🌱 Building scalable file storage solutions with advanced encryption
+- 📝 Developing real-time collaborative document editing platforms
+- 🔄 Implementing secure sharing and collaboration features
+- 📊 Optimizing cloud infrastructure and user experience
 
-🎯 **Current Focus:**
-- 🌱 Developing **Temporal Engine**, a new game engine built on Rust.
-- 🔄 Exploring the intersections between **music technology** and **software development**.
+🎶 **Beyond Code:**
+When I'm not building cloud solutions, I'm working on personal projects like **Recolon** (my own programming language). I also maintain my musical roots, playing guitar, bass, drums, and piano.
 
 📫 **Get in Touch:**
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bryan-van-der-laan-96691b175).
-- You can also follow my work and contributions here on GitHub.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/bryan-van-der-laan-96691b175)
+- Follow my professional and personal projects here on GitHub
 
 ---
-
 📊 **My GitHub Stats:**
-
 [![Breijen's GitHub stats](https://github-readme-stats.vercel.app/api?username=breijen)](https://github.com/anuraghazra/github-readme-stats)
