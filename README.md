@@ -4,7 +4,7 @@ I'm a software developer currently building innovative cloud solutions at **Soft
 
 🔧 **Professional Tech Stack:**
 - ⚡ **Backend:** Node.js, Express.js, MongoDB
-- 🎨 **Frontend:** Next.js, React, TypeScript, Javasript
+- 🎨 **Frontend:** Next.js, React, TypeScript, Javascript
 - ☁️ **Cloud:** Microservices architecture, RESTful APIs
 - 🛠️ **Additional:** Rust
 
