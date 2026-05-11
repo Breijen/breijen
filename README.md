@@ -1,7 +1,5 @@
 Hi, I'm Bryan.
 
-I'm a software developer currently building innovative cloud solutions at **Softmask**, and security solutions at **yellow arrow**.
-
 🔧 **Professional Tech Stack:**
 - ⚡ **Backend:** Node.js, Express.js, MongoDB
 - 🎨 **Frontend:** Next.js, React, TypeScript, Javascript
