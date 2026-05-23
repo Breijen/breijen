@@ -14,5 +14,5 @@ A real-time audio engine for games built in Rust.
 A full compiler written in Rust. Lexer, parser, type system, code generation.
 
 
-## Get in Touch:
+## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/bryan-van-der-laan-96691b175)
